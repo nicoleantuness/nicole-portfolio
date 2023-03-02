@@ -11,8 +11,8 @@ export const ProjectStack = styled(Flex, {
 });
 
 export const ProjectStackTech = styled("span", {
-  backgroundColor: "$brand4",
-  color: "$brand2",
+  backgroundColor: "$pink4",
+  color: "$pink2",
   padding: "0  0.5rem",
   borderRadius: "$2",
 });

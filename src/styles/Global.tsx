@@ -18,8 +18,8 @@ export const Flex = styled("div", {
 
 export const colors = {
   color: {
-    brand1: {
-      color: "$brand1",
+    pink1: {
+      color: "$pink1",
     },
 
     grey1: {
@@ -63,10 +63,10 @@ export const globalStyles = globalCss({
 export const GlobalStyle: React.FC<GlobalStyleProps> = ({ children }) => {
   const theme = createTheme({
     colors: {
-      brand1: "#5C63ED",
-      brand2: "#7D82F1",
-      brand3: "#BEC1F8",
-      brand4: "#E7E8FC",
+      pink1: "#eb70f7",
+      pink2: "#e794f1",
+      pink3: "#f4d6fa",
+      pink4: "#fce7fc",
       grey1: "#212529",
       grey2: "#495057",
       grey3: "#CED3D7",

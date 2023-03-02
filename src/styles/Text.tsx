@@ -10,6 +10,7 @@ const bodyDefaultConfig = {
 }
 
 export const Text = styled("p", {
+    marginTop: "$15px",
     color: "$grey1",
     fontSize: "$text1",
     fontWeight: 400,
