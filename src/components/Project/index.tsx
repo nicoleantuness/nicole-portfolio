@@ -74,7 +74,7 @@ export const Project = (): JSX.Element => {
         <ProjectLink
           target="_blank"
           href={
-            "https://hambrugeuria-kenzie-nicoleantuness-nicoleantuness.vercel.app"
+            "https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-nicoleantuness"
           }
         >
           <FaGithub /> Github Code
@@ -82,7 +82,7 @@ export const Project = (): JSX.Element => {
         <ProjectLink
           target="_blank"
           href={
-            "https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-nicoleantuness"
+            "https://hambrugeuria-kenzie-nicoleantuness-nicoleantuness.vercel.app"
           }
         >
           <FaShare /> Aplicação
