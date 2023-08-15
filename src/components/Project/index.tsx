@@ -22,40 +22,6 @@ export const Project = (): JSX.Element => {
   return (
     <>
       <Text as="h2" type="heading3" css={{ marginTop: "$3", marginBottom: "$3" }} color="grey1">
-        NuKenzie
-      </Text>
-      <ProjectStack>
-        <Text type="body2">Linguagem:</Text>
-        <ProjectStackTech>
-          <Text color="pink1" type="body2">
-            React
-          </Text>
-        </ProjectStackTech>
-      </ProjectStack>
-      <Text type="body1" color="grey2">
-        Projeto para simular transações de um banco.
-      </Text>
-
-      <ProjectLinks>
-        <ProjectLink
-          target="_blank"
-          href={
-            "https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-nu-kenzie-nicoleantuness"
-          }
-        >
-          <FaGithub /> Github Code
-        </ProjectLink>
-        <ProjectLink
-          target="_blank"
-          href={
-            "https://react-entrega-s1-nu-kenzie-nicoleantuness01-nicoleantuness.vercel.app/"
-          }
-        >
-          <FaShare /> Aplicação
-        </ProjectLink>
-      </ProjectLinks>
-
-      <Text as="h2" type="heading3" css={{ marginTop: "$3", marginBottom: "$3" }} color="grey1">
         Hamburgueria
       </Text>
       <ProjectStack>
